@@ -1,4 +1,4 @@
-# My First DevOps Project
+# DevOps Project
 This repo is a DevOps portfolio project that demonstrates:
 - A small containerized app (FastAPI)
 - Local Kubernetes deployment using kind + Helm
